@@ -12,6 +12,7 @@
 </script>
 
 <style>
+  @import "assets/css/base.css";
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
